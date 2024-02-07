@@ -1,0 +1,29 @@
+{
+    "Lightsticks": [
+        {
+            "id": 1,
+            "name": "bts",
+            "price": "R600",
+            "Image": "https://i.ibb.co/MRX7Gfy/armybomb.jpg"
+        },
+        {
+            "id": 2,
+            "name": "twice",
+            "price": "R500",
+            "Image":"https://i.ibb.co/pK2p5HZ/twice.jpg"
+        },
+        {
+            "id": 3,
+            "name": "txt",
+            "price": "R490",
+            "Image":"https://i.ibb.co/r31r24p/txt.jpg"
+        },
+        {
+            "id": 4,
+            "name": "red velvet",
+            "price": "R550",
+            "Image":"https://i.ibb.co/frKLZ6q/red-valavet.jpg"
+        }
+    ]
+}
+
